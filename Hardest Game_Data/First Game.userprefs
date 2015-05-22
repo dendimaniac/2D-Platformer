@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Bi\Scripts\GameOverScript.cs">
+    <Files>
+      <File FileName="Assets\Bi\Scripts\MenuScript.cs" Line="40" Column="31" />
+      <File FileName="Assets\Bi\Scripts\GameOverScript.cs" Line="28" Column="31" />
+      <File FileName="Assets\Bi\Scripts\Show_Text.cs" Line="18" Column="63" />
+      <File FileName="Assets\Bi\Scripts\Show_Text_Losing.cs" Line="21" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
